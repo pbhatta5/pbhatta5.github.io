@@ -27,7 +27,7 @@ nav a {
     text-decoration: none;
     color: white;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 table {
@@ -38,13 +38,13 @@ table {
 }
 
 th, td {
-    border: 3px solid royalblue;
+    border: 3px #0077cc;
     padding: 10px;
     text-align: center;
 }
 
 h1, h2 {
-    color: solid black;
+    color: #333;
 }
 
 ul {
