@@ -1,13 +1,13 @@
 body {
     font-family: 'Georgia', serif;
     text-align: center;
-    background-color: #f8f9fa;
+    background-color: white;
     margin: 0;
     padding: 0;
 }
 
 nav {
-    background-color: #0077cc;
+    background-color: black;
     padding: 10px 0;
 }
 
@@ -27,7 +27,7 @@ nav a {
     text-decoration: none;
     color: white;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 table {
@@ -38,13 +38,13 @@ table {
 }
 
 th, td {
-    border: 2px solid #0077cc;
+    border: 3px solid royalblue;
     padding: 10px;
     text-align: center;
 }
 
 h1, h2 {
-    color: #333;
+    color: darkgray;
 }
 
 ul {
